@@ -1,2 +1,2 @@
-# Drum-kit
-A drum-kit music generator machine using tkinter and python.
+# Card-Game
+A memory game with cards using tkinter and python.
